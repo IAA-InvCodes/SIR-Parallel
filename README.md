@@ -1,7 +1,6 @@
 # SIR-Parallel
 
 
-SIR PARALLEL distribution
 Authors: Stefan Thonhofer, Luis Bellot Rubio (IAA-CSIC)
 
 
