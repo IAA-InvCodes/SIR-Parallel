@@ -2,6 +2,7 @@
 
 
 SIR PARALLEL distribution
+Authors: Stefan Thonhofer, Luis Bellot Rubio (IAA-CSIC)
 
 
 The source code of SIR PARALLEL is in the directory /code. A test inversion 
